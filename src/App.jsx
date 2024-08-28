@@ -1,5 +1,5 @@
 import './App.css'
-import Tasbeeh from './components/tasbeeh';
+import Tasbeeh from './components/Tasbeeh';
 
 function App() {
   return (
