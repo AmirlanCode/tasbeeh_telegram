@@ -31,7 +31,7 @@ function Tasbeeh() {
         <button onClick = {decrementCount}  className=' bg-slate-800 text-white  text-3xl py-3 px-5 ml-3 rounded-full trasnform rotate-180 transition-transform transform hover:scale-105 hover:bg-blue-600'>^</button>
         </div>
         <button onClick = {resetCounter} className=' bg-slate-800 text-white text-3xl mt-10 p-3 rounded-full transition-transform transform hover:scale-105 hover:bg-blue-600 font-regular'>RESET</button>
-        <div className=' text-white absolute bottom-2 left-2 font-regular'>Contact me: @amirlacode</div>
+        <div className=' text-white absolute bottom-2 left-2 font-regular'>Contact me: @amirlancode</div>
         </div>
     
       </div>
